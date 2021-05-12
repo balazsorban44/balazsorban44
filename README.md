@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Currently working on [NextAuth.js](https://github.com/nextauthjs/next-auth) in my free-time, loves JavaScript.
+🔭 Currently working on [NextAuth.js](https://github.com/nextauthjs/next-auth) in my free-time, loves JavaScript. 📫 You can reach me on [Twitter](https://twitter.com/balazsorban44)
 
 <!--
 **balazsorban44/balazsorban44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
