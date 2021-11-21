@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🔭 Currently working on [NextAuth.js 🔒](https://github.com/nextauthjs/next-auth) in my free-time, loves JavaScript. 📫 You can reach me on [Twitter](https://twitter.com/balazsorban44).
+🔭 I am currently working at [@vercel](https://vercel.com), helping to maintain Next.js. Also maintains [NextAuth.js 🔒](https://github.com/nextauthjs/next-auth) and the  [Hungarian React docs](https://github.com/reactjs/hu.reactjs.org) in my free-time. I love JavaScript. 📫 You can reach me on [Twitter](https://twitter.com/balazsorban44).
 
 <!--
 **balazsorban44/balazsorban44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
