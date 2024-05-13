@@ -2,4 +2,4 @@
 
 ### Hi there 👋
 
-🔭 I am on the core team maintaining [Next.js](https://github.com/vercel/next.js) at [@vercel](https://vercel.com). Creator of [Auth.js 🔒](https://github.com/nextauthjs/next-auth). 📫 You can reach me on [Twitter](https://twitter.com/balazsorban44).
+🔭 I am on the Identity & Access Management team at [@vercel](https://vercel.com), occasionally help maintaining [Next.js](https://github.com/vercel/next.js). Creator of [Auth.js 🔒](https://github.com/nextauthjs/next-auth). 📫 You can reach me on [Twitter](https://twitter.com/balazsorban44).
